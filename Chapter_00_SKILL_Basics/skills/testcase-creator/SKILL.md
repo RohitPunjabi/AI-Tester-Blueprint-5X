@@ -241,7 +241,7 @@ When reviewing existing test cases:
 
 **Input requirement:**
 
-A user can log in to a web application using an email address and password.
+A user can log in to a web application using an email address and password. Code Changes
 
 **Sample test cases:**
 
